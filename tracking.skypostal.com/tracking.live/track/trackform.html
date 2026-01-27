@@ -1,0 +1,6 @@
+<form name="form1" action="demo_form.asp" id="myForm">
+    Username: <input type="text" name="usrname" required oninvalid="this.setCustomValidity('Username cannot be empty.')">
+    Password: <input type="password" name="password" required oninvalid="this.setCustomValidity('Password cannot be empty')">
+    Confirm Password: <input type="password" name="passwordConfirm" required oninvalid="this.setCustomValidity('Password        cannot be empty')"> 
+    <input type="submit" value="Submit" onClick="return checkform();">
+</form>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="400" height="400" viewBox="0 0 400 400" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 200 200)" id="1958523f-7ec3-400b-9027-4aabd7d34d12"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-200" y="-200" rx="0" ry="0" width="400" height="400" />
+</g>
+<g transform="matrix(Infinity NaN NaN Infinity 0 0)" id="a3d37003-0881-4875-8034-f50f6decb559"  >
+</g>
+<g transform="matrix(0.52 0 0 0.54 201.18 200.93)" id="1ea7bcc3-c6f9-4347-a757-9e1a4b167488"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-595.25, -426.2)" d="M 859.1 336.8 L 1014.9000000000001 210.5 L 747.9000000000001 32.900000000000006 L 595.3 162.1 L 442.7 32.9 L 175.7 210.5 L 330.79999999999995 336.3 L 175.6 463 L 345.29999999999995 575 L 345.29999999999995 701.1 L 595.1999999999999 819.5 L 845.0999999999999 701.1 L 845.0999999999999 574.7 L 1013.6 463 L 859.1 336.8 z M 594.6 444.6 L 421.8 336.2 L 595.3 227.89999999999998 L 768.0999999999999 335.79999999999995 L 594.6 444.6 z M 816.3 368.3 L 926.8 457.8 L 751.8 573.6 L 640 478.8 L 816.3 368.3 z M 751.8 98.7 L 926.8 214.5 L 816.3 304 L 640 193.4 L 751.8 98.7 z M 440.1 98.7 L 551.9 193.4 L 375.6 303.9 L 265.1 214.39999999999998 L 440.1 98.7 z M 374.3 368.3 L 551.9 478.8 L 440.09999999999997 573.5 L 265.09999999999997 457.7 L 374.3 368.3 z M 792.6 666.9 L 595.3 761.6 L 398 666.9 L 398 609.8 L 442.7 639.3 L 594.8 509.69999999999993 L 747.9 639.3 L 792.6 609.5999999999999 L 792.6 666.9 z" stroke-linecap="round" />
+</g>
+</svg>

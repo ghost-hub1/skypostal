@@ -1,0 +1,378 @@
+.CustomLoader_spinner__v5v0t {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  flex: 1 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.CustomLoader_spinner__v5v0t span {
+  font-size: 2rem;
+  -webkit-animation: CustomLoader_fade__jh_Tn 1s linear 0s infinite;
+  animation: CustomLoader_fade__jh_Tn 1s linear 0s infinite;
+  padding-right: 1rem;
+}
+.CustomLoader_halfSpinner__9d7Vp {
+  width: 50px;
+  height: 50px;
+  border: 3px solid #088aea;
+  border-top-color: transparent;
+  border-radius: 50%;
+  -webkit-animation: CustomLoader_spin__WXho5 0.5s linear 0s infinite;
+  animation: CustomLoader_spin__WXho5 0.5s linear 0s infinite;
+}
+.CustomLoader_completed__py__Y {
+  font-size: 2rem;
+  color: #088aea;
+  -webkit-animation: CustomLoader_bigger__e1uaq 1s linear;
+  animation: CustomLoader_bigger__e1uaq 1s linear;
+}
+@-webkit-keyframes CustomLoader_bigger__e1uaq {
+  0% {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(2);
+  }
+}
+@keyframes CustomLoader_bigger__e1uaq {
+  0% {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(2);
+  }
+}
+@-webkit-keyframes CustomLoader_spin__WXho5 {
+  0% {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(1turn);
+  }
+}
+@keyframes CustomLoader_spin__WXho5 {
+  0% {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(1turn);
+  }
+}
+@-webkit-keyframes CustomLoader_fade__jh_Tn {
+  0% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes CustomLoader_fade__jh_Tn {
+  0% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.CargoTracking_tableContainer__rIuhE {
+  width: 100%;
+  overflow: scroll;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0/25%);
+  border-radius: 8px;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.CargoTracking_gridPlaceholder__zv0MK {
+  max-width: 920px;
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0/25%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: #fff;
+}
+.CargoTracking_gridContainer__dW3qG {
+  border-radius: 8px;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0/25%);
+  border: none;
+  max-width: 100%;
+  width: auto;
+}
+.CargoTracking_gridContainer__dW3qG tr:nth-child(2n) {
+  background-color: #f5f5f5;
+}
+.CargoTracking_gridContainer__dW3qG tbody tr:first-child {
+  background-color: #b2ffd6;
+}
+.CargoTracking_gridContainer__dW3qG tbody tr:hover {
+  background-color: transparent;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0/25%);
+  cursor: pointer;
+}
+.CargoTracking_iconExcel__Ds32e {
+  cursor: pointer;
+}
+.TrackingIndex_headerContainer__xDkBX {
+  text-align: center;
+  padding: 10px;
+  background-color: #fff;
+  border-bottom: 1px solid #f5f5f5;
+  width: 100%;
+  max-height: 100%;
+  position: relative;
+  z-index: 999;
+}
+.TrackingIndex_logoHeader__b4BEm {
+  max-width: 350px;
+  padding: 10px !important;
+}
+.TrackingIndex_mainContainer__EZW8x {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  padding: 10px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-bottom: 90px;
+}
+.TrackingIndex_leftContainer__IERAd {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  min-width: 100%;
+  margin-bottom: 20px;
+}
+.TrackingIndex_title__O_Hzo {
+  font-size: 24px;
+  font-weight: 300;
+}
+.TrackingIndex_rightContainer__O5u5f {
+  width: 100%;
+  padding: 0;
+  height: 100%;
+}
+.TrackingIndex_actionsContainer__0sK1l {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+.TrackingIndex_radioButtonContainer__ONzq5 {
+  display: flex;
+  align-items: center;
+}
+.TrackingIndex_radioButton__K1tcL.TrackingIndex_k-radio-item__4jyrs {
+  background-color: red;
+}
+.TrackingIndex_lineDivisor__lX19G {
+  height: 30px;
+  margin: 0 15px;
+  background: #008de6;
+  width: 2px;
+}
+.TrackingIndex_textAreaContainer__sX_rX {
+  border: none;
+}
+.TrackingIndex_inputContainer__L84k2,
+.TrackingIndex_textAreaContainer__sX_rX {
+  max-width: 600;
+  background-color: #ffffff !important;
+  max-width: 600px;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.25);
+}
+.TrackingIndex_inputContainer__L84k2 {
+  border-radius: 6px !important;
+}
+.TrackingIndex_tableContainer__fowoR {
+  width: 100%;
+  overflow: hidden;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0/25%);
+  border-radius: 8px;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.TrackingIndex_gridPlaceholder__T_22m {
+  width: 100vw;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+}
+.TrackingIndex_gridContainer__fiFHd,
+.TrackingIndex_gridPlaceholder__T_22m {
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0/25%);
+  height: 100%;
+}
+.TrackingIndex_gridContainer__fiFHd {
+  border: none;
+  width: auto;
+  overflow: auto;
+}
+.TrackingIndex_k-grid-content__gLQfU {
+  overflow: auto;
+}
+.TrackingIndex_gridContainerMultiple__SU0Hy {
+  border-radius: 8px;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0/25%);
+  border: none;
+  max-width: 100%;
+  width: auto;
+}
+.TrackingIndex_iconExcel__R_NYr {
+  cursor: pointer;
+}
+.TrackingIndex_gridContainer__fiFHd tr:nth-child(2n) {
+  background-color: #f5f5f5;
+}
+.TrackingIndex_gridContainer__fiFHd tbody tr:first-child {
+  background-color: #b2ffd6;
+}
+.TrackingIndex_gridContainer__fiFHd tbody tr:hover,
+.TrackingIndex_gridContainerMultiple__SU0Hy tbody tr:hover {
+  background-color: transparent;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0/25%);
+  cursor: pointer;
+}
+.TrackingIndex_buttonSearch__MKTOI {
+  box-shadow: 0 1px 3px 0 rgb(0 0 0/25%);
+  background-color: #088aea;
+  color: #fff;
+  border: 6px;
+  margin-top: 15px;
+}
+.TrackingIndex_closeButton__n2INC {
+  font-size: 20px;
+  cursor: pointer;
+  font-weight: 700;
+  position: absolute;
+  right: 15px;
+  top: 5px;
+}
+.TrackingIndex_footerContainer__2MVof {
+  position: fixed;
+  bottom: 0;
+  background-color: #fff;
+  box-shadow: 4px 3px 4px 0 rgb(0 0 0/12%);
+  z-index: 1109;
+  width: 100%;
+  padding: 10px 20px;
+  font-size: 15px;
+  transition: transform 0.3s ease-in-out, margin 0.3s ease-in-out;
+  letter-spacing: 0.4px;
+}
+.TrackingIndex_linkSPFooter__tDUZk {
+  font-weight: 700;
+  color: #088aea;
+}
+.TrackingIndex_tabContainer__3hImG {
+  border-bottom: 1px solid #e8e8e8;
+  margin-bottom: 1.5rem;
+  display: flex;
+  max-height: 70px;
+  max-width: 920px;
+}
+.TrackingIndex_tabTitle__ZbpIC {
+  cursor: pointer;
+  font-weight: 700;
+  color: #b0b0b0;
+  padding: 0 1.5rem 1rem;
+  max-width: 220px;
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.TrackingIndex_tabSelected__mOzMj {
+  color: #088aea;
+  border-bottom: 2px solid #088aea;
+}
+.TrackingIndex_tabTitle__ZbpIC:hover {
+  color: #088aea;
+}
+.TrackingIndex_podContainer__MtfvE {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  padding-top: 120px;
+}
+.TrackingIndex_titlePod__fq1sD {
+  font-weight: 600;
+}
+.TrackingIndex_itemsContainer__tA0ax {
+  display: flex;
+  flex-direction: column;
+  grid-gap: 2rem;
+  gap: 2rem;
+  padding: 1rem;
+}
+.TrackingIndex_imagePod__8HGuq {
+  -o-object-fit: contain;
+  object-fit: contain;
+}
+.TrackingIndex_mobileText__9IX_H {
+  display: flex;
+  margin-bottom: 0.5rem;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+}
+.TrackingIndex_gridContainer__fiFHd td {
+  font-size: 12px;
+}
+@media (min-width: 1200px) {
+  .TrackingIndex_headerContainer__xDkBX {
+    height: 110px;
+    position: fixed;
+  }
+  .TrackingIndex_mainContainer__EZW8x {
+    flex-direction: row;
+    justify-content: center;
+    padding: 150px 40px 40px;
+  }
+}
+@media (min-width: 400px) {
+  .TrackingIndex_gridPlaceholder__T_22m {
+    width: 920px;
+  }
+  .TrackingIndex_leftContainer__IERAd {
+    min-width: 450px;
+  }
+  .TrackingIndex_rightContainer__O5u5f {
+    padding: 10px 0 10px 10px;
+  }
+  .TrackingIndex_mobileText__9IX_H {
+    display: none;
+  }
+  .TrackingIndex_actionsContainer__0sK1l {
+    margin-right: 40px;
+    margin-left: 40px;
+    
+    width: 350px;
+  }
+  .TrackingIndex_footerContainer__2MVof {
+    padding: 20px;
+  }
+  .TrackingIndex_itemsContainer__tA0ax {
+    flex-direction: row;
+  }
+  .TrackingIndex_gridContainer__fiFHd {
+    overflow: hidden;
+  }
+  .TrackingIndex_gridContainer__fiFHd td {
+    font-size: 13px;
+  }
+}
